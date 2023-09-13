@@ -87,21 +87,20 @@ Yash Shukla
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p>
-<a href="https://www.linkedin.com/in/hargun-singh-4a10a7212/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="debk007" width="104"/></a> &nbsp;
-<a href="mailto:hargunbit1001@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="debashish_kundu" width="81"/></a>
-  <a href="https://medium.com/@hargunbit1001" target="_blank"><img align="center" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white" alt="Hargun Singh" width="81"/></a>
+<a href="https://www.linkedin.com/in/yash-shukla-885587202/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="debk007" width="104"/></a> &nbsp;
+<a href="mailto:shuklayash1304@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="debashish_kundu" width="81"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Stats:**
  
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hargun0360&hide=HTML&show_icons=true&theme=radical&layout=compact&langs_count=8&border_radius=16" alt="hargun0360" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash13042001&hide=HTML&show_icons=true&theme=radical&layout=compact&langs_count=8&border_radius=16" alt="yash13042001" />
 </p>
  
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hargun0360&theme=radical&border_radius=16" alt="hargun0360" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash13042001&theme=radical&border_radius=16" alt="yash13042001" />
 </p>
 
 <p align="center">
-<img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=hargun0360&show_icons=true&theme=radical&count_private=true&border_radius=16">
+<img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=yash13042001&show_icons=true&theme=radical&count_private=true&border_radius=16">
 </p>
