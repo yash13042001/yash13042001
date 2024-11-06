@@ -18,8 +18,7 @@ Yash Shukla
 
 ## <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me :** 
 
-- **Flutter Application** + **Firebase Backend** dev
-- Final year student
+- **Flutter Application** + **Firebase Backend** + **FullStack Web Developer**
 - At Indian Institute of Information Technology Pune, MAHARASHTRA, INDIA
 - 👨‍💻 View all my projects at <a href="https://github.com/yash13042001?tab=repositories"> <img align="center" src="https://user-images.githubusercontent.com/81604986/213557273-dcc14a20-c100-461e-b736-f9cb66340937.svg" alt="yash13042001" height="30" width="40" /></a>
 
